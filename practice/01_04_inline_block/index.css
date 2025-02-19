@@ -1,0 +1,17 @@
+.block_container{
+    border: 1px solid blue;
+}
+
+.inline_container{
+    border: 1px solid red;
+}
+
+.block_container div{
+    border: 3px solid green;
+    width: 400px;
+}
+
+.inline_container span{
+    background-color: red;
+    display: block;
+}
